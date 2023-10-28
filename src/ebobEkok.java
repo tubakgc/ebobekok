@@ -39,6 +39,6 @@ public class ebobEkok {
         ekok = (n1 * n2) / ebob;
         System.out.println(" ");
         System.out.println("EKOK: "+ekok);
-
+//git için ekleme yapıldı
     }
 }
